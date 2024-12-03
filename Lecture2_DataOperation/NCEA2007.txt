@@ -1,0 +1,89 @@
+Name:Level1:Level2:Level3
+Al-Madinah School:61.5:75:0
+Alfriston College:53.9:44.1:0
+Ambury Park Centre for Riding Therapy:33.3:20:0
+Aorere College:39.5:50.2:30.6
+Auckland Girls' Grammar School:71.2:78.9:55.5
+Auckland Grammar:22.1:30.8:26.3
+Auckland Seventh-Day Adventist H S:50.8:34.8:48.9
+Avondale College:57.3:49.8:44.6
+Baradene College:89.3:89.7:88.6
+Birkenhead College:59.8:65.7:50.4
+Botany Downs Secondary College:79.9:78.7:0
+Carmel College:91.9:92:93.6
+De La Salle College:53.5:54.8:24.8
+Dilworth School:88.1:72.1:74.1
+Diocesan School for Girls:96.3:91.8:93.8
+Edgewater College:39.4:48.8:45.9
+Elim Christian College:74.6:90.9:88.6
+Epsom Girls' Grammar School:89:86.4:83.6
+Glendowie College:70.2:73.7:66.1
+Glenfield College:58.4:65.5:45.6
+Green Bay High school:52.2:57.1:43.9
+Hato Petera College:76.5:58.8:64.3
+Hebron Christian College (Auckland):57.1:60:66.7
+Henderson High School:53.3:50:20.8
+Howick College:66.5:72.1:60.3
+Immanuel Christian School:85.7:0:0
+James Cook High School:53.1:32.6:20
+Kelston Boys' High School:53.2:42.7:39.8
+Kelston Girls' College:48.4:57.1:32.5
+Kings College:10.8:18.7:21.5
+Kingsway School:93.3:90.5:77.3
+Kristin School:93.4:27.8:36.7
+Liston College:66.7:85.7:57.1
+Long Bay College:74.5:84.2:67.2
+Lynfield College:69:73.8:67.9
+Macleans College:26.7:28.8:35.6
+Mahurangi College:71.9:66.2:55.9
+Mangere College:37:21.8:13.5
+Manurewa High School:27.9:38.4:33.1
+Marcellin College:47.4:59.5:44
+Marist College:83.5:92.5:76.5
+Massey High School:63.6:58.2:59.5
+McAuley High School:83.7:86.9:42.4
+Michael Park School:2.8:73.5:50
+Mt Albert Grammar School:62.8:56.5:53.7
+Mt Roskill Grammar:60.2:63.6:55.3
+Northcote College:65.2:69.6:69.8
+Onehunga High School:46.1:48.7:54.1
+Onewhero Area School:80:70:0
+Orewa College:75.2:81:54.9
+Otahuhu College:32.4:36.8:17
+Pakuranga College:74.1:77.6:69.4
+Papakura High School:33.1:52.5:42.6
+Papatoetoe High School:40.2:59.9:32.5
+Penrose High School:42.6:40.9:31
+Pukekohe High School:66.8:65.4:65.3
+Rangitoto College:85:81.7:71.6
+Rosehill College:59.2:57.3:46
+Rosmini College:84.9:85.5:82.2
+Rutherford College:50.5:60.3:41.3
+Sacred Heart College (Auckland):86.3:85.8:74.3
+Sancta Maria College:91.7:76.8:0
+Selwyn College:70.8:62.7:31.9
+Sir Edmund Hillary Collegiate Senior Sch:34.2:64.8:51.5
+Southern Cross Campus:34.8:52.1:23.3
+St Cuthbert's College (Epsom):96.7:95.7:95.7
+St Dominic's College (Henderson):73.8:84.2:68.7
+St Kentigern College (Pakuranga):91.7:89:87.3
+St Mary's College (Ponsonby):97.4:93.1:85.7
+St Paul's College (Ponsonby):39:5.6:12.9
+St Peter's College (Epsom):37.1:41.4:40.4
+Takapuna Grammar School:73.6:78.6:65.2
+Tamaki College:23.8:19.6:8.8
+Tangaroa College:45.6:44.6:55.7
+TKKM o Hoani Waititi:50:52.9:36.4
+TKKM o Mangere:85.7:43.8:50
+Tuakau College:52.3:64.7:38.9
+Waiheke High School:75:52.2:33.3
+Waitakere College:45.1:53.9:39.1
+Waiuku College:69.9:61.2:55.3
+Wentworth College:89.7:88.9:50
+Wesley College:47.1:61.7:60.9
+Western Springs College:83:82.8:67.2
+Westlake Boys' High School:49.7:48.9:42.8
+Westlake Girls' High School:85.3:86.8:73.5
+Westmount School:93.6:77.6:66.2
+Whangaparaoa College:58.6:0:0
+Zayed College for Girls:61.5:66.7:72.7
